@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Rajath, a first-year undergraduate computer science student at GITAM Bangalore. I'm currently building a strong foundation in programming fundamentals and am excited to explore the latest techniques in the field. With a keen interest in learning various programming languages, I'm eager to dive into Java, Python, and C++.
+I'm Rajath, a first-year undergraduate computer science student at GITAM Bangalore. I'm currently building a strong foundation in programming fundamentals and am excited to explore the latest techniques in the field. With a keen interest in learning various programming languages, I'm eager to dive into C, Java, Python, and C++.
 
 I'm passionate about discovering innovative solutions and staying up-to-date on industry trends. I'm looking forward to connecting with like-minded professionals and learn from their experiences. 
 
